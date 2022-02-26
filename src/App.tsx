@@ -1,24 +1,25 @@
-import React from 'react';
-import logo from './logo.svg';
+// import React from 'react';
+// import logo from './logo.svg';
+import Box from '@mui/material/Box';
 import './App.css';
+import Canvas from './ui/canvas';
+import Settings from './ui/settings';
+import VerticalTabs from './ui/tab';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <body>
+      <div style={{ width: '100%' }}>
+      <Box
+        sx={{ display: 'flex', p: 1, bgcolor: 'background.paper', borderRadius: 1 }}
+      >
+        <VerticalTabs />
+        <Canvas />
+        <Settings />
+        </Box>
+        </div>
+      </body>
     </div>
   );
 }
