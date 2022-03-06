@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/sapphire-shark/static/css/main.073c9b0a.css",
-    "main.js": "/sapphire-shark/static/js/main.0a70480e.js",
+    "main.js": "/sapphire-shark/static/js/main.c949be4b.js",
     "static/js/787.cee503a4.chunk.js": "/sapphire-shark/static/js/787.cee503a4.chunk.js",
-    "static/media/logo.svg": "/sapphire-shark/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/sapphire-shark/index.html",
     "main.073c9b0a.css.map": "/sapphire-shark/static/css/main.073c9b0a.css.map",
-    "main.0a70480e.js.map": "/sapphire-shark/static/js/main.0a70480e.js.map",
+    "main.c949be4b.js.map": "/sapphire-shark/static/js/main.c949be4b.js.map",
     "787.cee503a4.chunk.js.map": "/sapphire-shark/static/js/787.cee503a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0a70480e.js"
+    "static/js/main.c949be4b.js"
   ]
 }
