@@ -1,4 +1,4 @@
-// import React from 'react';
+import React from 'react';
 // import logo from './logo.svg';
 import Box from '@mui/material/Box';
 import './App.css';
@@ -7,6 +7,12 @@ import Settings from './ui/settings';
 import VerticalTabs from './ui/tab';
 
 function App() {
+  React.useEffect(()=>{
+    fetch('https://mildlycrazydiamond.github.io/image-cdn/manifest.json')
+    .then(response => response.json())
+    .then(data => console.log(data));
+  },[])
+
   return (
     <div className="App">
       <body>
