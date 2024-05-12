@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sapphire-shark/static/css/main.073c9b0a.css",
-    "main.js": "/sapphire-shark/static/js/main.076ae922.js",
+    "main.js": "/sapphire-shark/static/js/main.795bf5f2.js",
     "static/js/787.cee503a4.chunk.js": "/sapphire-shark/static/js/787.cee503a4.chunk.js",
     "index.html": "/sapphire-shark/index.html",
     "main.073c9b0a.css.map": "/sapphire-shark/static/css/main.073c9b0a.css.map",
-    "main.076ae922.js.map": "/sapphire-shark/static/js/main.076ae922.js.map",
+    "main.795bf5f2.js.map": "/sapphire-shark/static/js/main.795bf5f2.js.map",
     "787.cee503a4.chunk.js.map": "/sapphire-shark/static/js/787.cee503a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.076ae922.js"
+    "static/js/main.795bf5f2.js"
   ]
 }
