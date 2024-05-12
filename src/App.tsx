@@ -15,6 +15,7 @@ function App() {
 
   return (
     <div className="App">
+      <span>Test header</span>
       <body>
       <div style={{ width: '100%' }}>
       <Box
